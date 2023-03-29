@@ -10,18 +10,18 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=felipehirano&style=flat-square&color=blue" alt=""/>
   <h1>
-    hello there
+    Welcome to my Github profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDljOWUwZTU1YmE0OTUzYjBmYWE1NDM4NmMwODFhMzU4MzA4ZGU2MSZjdD1n/xUPGcEliCc7bETyfO8/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me : I am a happier coder...
 - :telescope: I’m working as a Software Engineer with strong skills in front-end tecnologies.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring technical content writing.
 
 - :zap: In my free time, I love to practice some sports.
 
